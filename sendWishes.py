@@ -16,3 +16,4 @@ for x in json.loads((json.dumps(entries, indent=2, sort_keys=True))):
     print(x['summary'])
     client.sendMessage('Happy Birthday',int(x['uid'][1:-13]),ThreadType.USER)
     
+client.logout()
