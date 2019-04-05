@@ -7,7 +7,7 @@ Requirements
 Download 
 	You need to download birthday dataset from facebook. 
 	Go to home/events/Calendar
-  [!Image}("Capture.PNG")
+  [!Image}(https://github.com/arun-sagar/Birthday-wishes-python-script/blob/master/Capture.PNG)
   
 Click on the Birthdays and it will download an  .ics file
 	Rename it as birthday.ics
